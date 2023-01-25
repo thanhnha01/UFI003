@@ -28,5 +28,6 @@ echo 'src-git ntfs3 https://github.com/xymopen/openwrt-ntfs3.git;master' >>feeds
 echo 'src-git netnasemusic https://github.com/maxlicheng/luci-app-unblockmusic.git;master' >>feeds.conf.default
 echo "src-git PWpackages https://github.com/xiaorouji/openwrt-passwall.git;packages" >> feeds.conf.default
 echo "src-git PWluci https://github.com/xiaorouji/openwrt-passwall.git;luci" >> feeds.conf.default
+echo "src-git PWluci https://github.com/esirplayground/luci-app-LingTiGameAcc.git;master' >>feeds.conf.default
 # echo 'src-git kiddin9 https://github.com/kiddin9/openwrt-packages.git;master' >>feeds.conf.default
 # echo 'src-git lucie https://github.com/openwrt/luci.git' >>feeds.conf.default
